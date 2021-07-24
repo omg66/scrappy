@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: mg.rat27
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, graalvm, gradle, http-client, java, java-application, junit, logback, lombok, management, micrometer, micrometer-prometheus, netty-server, openapi, readme, rss, shade, yaml]
